@@ -31,4 +31,5 @@
   </languages>
   <subsystems>Subsystem.Подсистема1</subsystems>
   <commonForms>CommonForm.Форма1</commonForms>
+  <catalogs>Catalog.СправочникМастер</catalogs>
 </mdclass:Configuration>
