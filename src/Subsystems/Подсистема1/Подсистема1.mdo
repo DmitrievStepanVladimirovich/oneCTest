@@ -8,4 +8,5 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>CommonForm.Форма1</content>
+  <content>Catalog.СправочникМастер</content>
 </mdclass:Subsystem>
