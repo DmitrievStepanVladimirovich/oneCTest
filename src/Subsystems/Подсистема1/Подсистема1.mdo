@@ -9,4 +9,5 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>CommonForm.Форма1</content>
   <content>Catalog.СправочникМастер</content>
+  <content>Catalog.Справочник1</content>
 </mdclass:Subsystem>
